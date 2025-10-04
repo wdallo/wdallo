@@ -89,16 +89,6 @@ const wdallo = {
 
 ---
 
-### 🌐 Connect with Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wdallo)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 Random Dev Quote
