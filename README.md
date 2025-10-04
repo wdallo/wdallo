@@ -106,9 +106,6 @@ const wdallo = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=wdallo&style=for-the-badge&color=A855F7" alt="Profile Views" />
-
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
 
 </div>
