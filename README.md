@@ -44,7 +44,7 @@ const wdallo = {
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,react,vue,nodejs,python,django,express,mongodb,postgresql,docker,git,github,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,python,express,mongodb,postgresql,docker,git,github,vscode,figma,photoshop" />
 </p>
 
 ---
