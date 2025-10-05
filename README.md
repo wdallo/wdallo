@@ -82,7 +82,9 @@ const wdallo = {
 ### 🎯 Current Projects
 
 <div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wdallo&repo=MKV-Player-WebTorrent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/wdallo/MKV-Player-WebTorrent)
+
 </div>
 
 ---
