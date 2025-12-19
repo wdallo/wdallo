@@ -63,16 +63,6 @@ const wdallo = {
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=wdallo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdallo&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
