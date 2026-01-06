@@ -47,38 +47,12 @@ const wdallo = {
   <img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,python,express,mongodb,postgresql,docker,git,github,vscode,figma,photoshop" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=wdallo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wdallo&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdallo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
 
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdallo&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
----
-
-### 🎯 Current Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wdallo&repo=MKV-Player-WebTorrent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/wdallo/MKV-Player-WebTorrent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wdallo&repo=CORS-PROXY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/wdallo/CORS-PROXY)
-
-</div>
-
----
 
 <div align="center">
 
